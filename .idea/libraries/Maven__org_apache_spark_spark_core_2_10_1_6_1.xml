@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.spark:spark-core_2.10:1.6.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.1/spark-core_2.10-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.1/spark-core_2.10-1.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.1/spark-core_2.10-1.6.1-sources.jar!/" />
+      <root url="file://$USER_HOME$/workspace/sources/spark" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/bagel/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/core/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/core/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/core/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/dev/audit-release/maven_app_core/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/examples/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/flume/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/flume/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/kafka/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/kafka/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/mqtt/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/mqtt/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/twitter/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/twitter/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/zeromq/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/external/zeromq/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/extras/java8-tests/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/extras/kinesis-asl/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/extras/kinesis-asl/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/graphx/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/graphx/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/launcher/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/launcher/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/mllib/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/mllib/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/network/common/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/network/common/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/network/shuffle/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/network/shuffle/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/network/yarn/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/sql/catalyst/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/sql/core/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/sql/core/src/test/gen-java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/sql/core/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/sql/hive/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/sql/hive/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/streaming/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/streaming/src/main/scala" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/streaming/src/test/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/tags/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/unsafe/src/main/java" />
+      <root url="file://$USER_HOME$/workspace/sources/spark/unsafe/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
